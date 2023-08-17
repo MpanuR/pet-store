@@ -1,4 +1,4 @@
-package com.promineotech.petstore;
+package test.pet.store;
 
 import org.junit.jupiter.api.Test;
 import org.springframework.boot.test.context.SpringBootTest;
